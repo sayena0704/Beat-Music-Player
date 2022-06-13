@@ -289,14 +289,14 @@ h2{
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 .songitem .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     /* margin: 10px 0px 10px 34px; */
     position: relative;
     top: 8px;
@@ -318,7 +318,7 @@ h2{
 .songitem .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -361,15 +361,15 @@ h2{
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem2 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     /* margin: 10px 0px 10px 34px; */
     position: relative;
     top: 8px;
@@ -391,7 +391,7 @@ h2{
 .songitem2 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -433,15 +433,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem3 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     position: relative;
     top: 8px;
     left: 35px;
@@ -463,7 +463,7 @@ align-items: center;
 .songitem3 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -502,15 +502,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem4 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     /* margin: 10px 0px 10px 34px; */
     position: relative;
     top: 8px;
@@ -533,7 +533,7 @@ align-items: center;
     display: flex;
     flex-direction: row;
     
-    color: black;
+    color: whitesmoke;
     /* margin: 15px 40px; */
     position: relative;
     top: 3px;
@@ -571,15 +571,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem5 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     position: relative;
     top: 8px;
     left: 35px;
@@ -600,7 +600,7 @@ align-items: center;
 .songitem5 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -639,15 +639,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem6 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     position: relative;
     top: 8px;
     left: 35px;
@@ -668,7 +668,7 @@ align-items: center;
 .songitem6 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -707,15 +707,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem7 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     position: relative;
     top: 8px;
     left: 35px;
@@ -736,7 +736,7 @@ align-items: center;
 .songitem7 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -775,15 +775,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem8 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     position: relative;
     top: 8px;
     left: 35px;
@@ -804,7 +804,7 @@ align-items: center;
 .songitem8 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -843,15 +843,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem9 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     position: relative;
     top: 8px;
     left: 35px;
@@ -872,7 +872,7 @@ align-items: center;
 .songitem9 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -911,15 +911,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem10 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     position: relative;
     top: 8px;
     left: 35px;
@@ -940,7 +940,7 @@ align-items: center;
 .songitem10 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -979,15 +979,15 @@ align-items: center;
     left: 125px;
     height: 75px;
     width: 32vw;
-    background-color: white;
-    border: 1px solid white;
-    border-radius: 45px;
+    background-color: #aa3a3a;
+    border: 1px solid #aa3a3a;
+    border-radius: 8px;
     
 }
 
 .songitem11 .imgcontainer{
     display: flex;
-    color: black;
+    color: whitesmoke;
     position: relative;
     top: 8px;
     left: 35px;
@@ -1008,7 +1008,7 @@ align-items: center;
 .songitem11 .aboutsong{
     display: flex;
     flex-direction: row;
-    color: black;
+    color: whitesmoke;
     /* margin: 20px 66px; */
     position: relative;
     top: 3px;
@@ -1042,3 +1042,4 @@ align-items: center;
 .songitemPlay{
     cursor: pointer;
 }
+
